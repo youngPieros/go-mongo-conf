@@ -1,4 +1,4 @@
-module go-mongo-conf
+module github.com/youngPieros/go-mongo-conf
 
 go 1.20
 

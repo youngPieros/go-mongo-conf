@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-mongo-conf/commands"
+	"github.com/youngPieros/go-mongo-conf/commands"
 	"os"
 )
 

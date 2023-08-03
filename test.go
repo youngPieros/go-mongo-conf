@@ -1,6 +1,6 @@
 package main
 
-import "go-mongo-conf/mongoconf"
+import "github.com/youngPieros/go-mongo-conf/mongoconf"
 
 func test() {
 	variables := []*mongoconf.Variable{mongoconf.FromInteger("rank", 2000)}

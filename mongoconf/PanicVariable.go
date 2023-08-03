@@ -3,8 +3,8 @@ package mongoconf
 import (
 	"errors"
 	"fmt"
-	"go-mongo-conf/enum"
-	"go-mongo-conf/tools"
+	"github.com/youngPieros/go-mongo-conf/enum"
+	"github.com/youngPieros/go-mongo-conf/tools"
 	"strconv"
 )
 

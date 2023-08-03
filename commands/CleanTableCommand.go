@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"go-mongo-conf/enum"
-	"go-mongo-conf/mongo"
+	"github.com/youngPieros/go-mongo-conf/enum"
+	"github.com/youngPieros/go-mongo-conf/mongo"
 )
 
 type CleanTableCommand struct {

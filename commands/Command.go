@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"go-mongo-conf/tools"
+	"github.com/youngPieros/go-mongo-conf/tools"
 )
 
 func RunCommand(arguments []string) {

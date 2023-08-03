@@ -3,8 +3,8 @@ package commands
 import (
 	"errors"
 	"fmt"
-	"go-mongo-conf/enum"
-	"go-mongo-conf/mongoconf"
+	"github.com/youngPieros/go-mongo-conf/enum"
+	"github.com/youngPieros/go-mongo-conf/mongoconf"
 )
 
 func CreateCommand(arguments []string) (CommandInterface, error) {

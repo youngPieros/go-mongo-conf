@@ -1,7 +1,7 @@
 package mongoconf
 
 import (
-	"go-mongo-conf/enum"
+	"github.com/youngPieros/go-mongo-conf/enum"
 	"strconv"
 )
 

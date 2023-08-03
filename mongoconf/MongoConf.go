@@ -1,10 +1,10 @@
 package mongoconf
 
 import (
-	"go-mongo-conf/enum"
-	"go-mongo-conf/mongo"
-	Scheduler "go-mongo-conf/scheduler"
-	"go-mongo-conf/tools"
+	"github.com/youngPieros/go-mongo-conf/enum"
+	"github.com/youngPieros/go-mongo-conf/mongo"
+	Scheduler "github.com/youngPieros/go-mongo-conf/scheduler"
+	"github.com/youngPieros/go-mongo-conf/tools"
 	"time"
 )
 
