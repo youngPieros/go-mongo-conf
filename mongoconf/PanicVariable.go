@@ -3,8 +3,8 @@ package mongoconf
 import (
 	"errors"
 	"fmt"
-	"panicmode/enum"
-	"panicmode/tools"
+	"go-mongo-conf/enum"
+	"go-mongo-conf/tools"
 	"strconv"
 )
 

@@ -1,10 +1,10 @@
 package mongoconf
 
 import (
-	"panicmode/enum"
-	"panicmode/mongo"
-	Scheduler "panicmode/scheduler"
-	"panicmode/tools"
+	"go-mongo-conf/enum"
+	"go-mongo-conf/mongo"
+	Scheduler "go-mongo-conf/scheduler"
+	"go-mongo-conf/tools"
 	"time"
 )
 

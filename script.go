@@ -1,8 +1,8 @@
 package main
 
 import (
+	"go-mongo-conf/commands"
 	"os"
-	"panicmode/commands"
 )
 
 func main() {

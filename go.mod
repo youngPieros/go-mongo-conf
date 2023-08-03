@@ -1,4 +1,4 @@
-module panicmode
+module go-mongo-conf
 
 go 1.20
 

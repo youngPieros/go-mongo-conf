@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"panicmode/enum"
-	"panicmode/mongo"
+	"go-mongo-conf/enum"
+	"go-mongo-conf/mongo"
 )
 
 type CleanTableCommand struct {

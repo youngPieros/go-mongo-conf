@@ -1,7 +1,7 @@
 package mongoconf
 
 import (
-	"panicmode/enum"
+	"go-mongo-conf/enum"
 	"strconv"
 )
 

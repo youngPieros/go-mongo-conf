@@ -1,6 +1,6 @@
 package main
 
-import "panicmode/mongoconf"
+import "go-mongo-conf/mongoconf"
 
 func test() {
 	variables := []*mongoconf.Variable{mongoconf.FromInteger("rank", 2000)}

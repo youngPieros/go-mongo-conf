@@ -1,7 +1,7 @@
 package commands
 
 import (
-	"panicmode/tools"
+	"go-mongo-conf/tools"
 )
 
 func RunCommand(arguments []string) {
